@@ -7,7 +7,7 @@ Date Created June twenty second, twenty twenty four
 New Project Title: Bikes? Where are the Numbers?
 
 ### Description
-Describe what your project is about and what it does
+This project file looks into some of the use data for the bikeshare company. We investigated the use data for three cities.
 
 ### Files used
 Include the files used
