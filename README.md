@@ -13,5 +13,5 @@ This project file looks into some of the use data for the bikeshare company. We 
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Acknowledgement to Jericho Giant and Alivia Brunkhorst
 
