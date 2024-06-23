@@ -7,7 +7,7 @@ Date Created June twenty second, twenty twenty four
 New Project Title: Bikes? Where are the Numbers?
 
 ### Description
-This project file looks into some of the use data for the bikeshare company. We investigated the use data for three cities.
+This project file looks into some of the use data for the bikeshare company. We investigated the use data for three cities; New York, Chicago, and Washington.
 
 ### Files used
 Include the files used
