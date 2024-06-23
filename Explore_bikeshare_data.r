@@ -15,8 +15,6 @@ ny = read.csv('new_york_city.csv')
 wash = read.csv('washington.csv')
 chi = read.csv('chicago.csv')
 
-#preview the ny table
-head(ny)
 
 # Load necessary libraries
 library(ggplot2)
